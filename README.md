@@ -67,4 +67,4 @@ Run the notebook from the repository root: it reads `data/coaster_db.csv` and wr
 
 ## About
 
-**Author:** [Mahmoud H. A. Abu Saada](https://www.linkedin.com/in/ds-ai-mahmoud-abu-saada) · [GitHub](https://github.com/DS-mhas2007)
+**Author:** [Your Name](https://www.linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username)
